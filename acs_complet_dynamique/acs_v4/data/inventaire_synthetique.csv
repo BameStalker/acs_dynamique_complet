@@ -1,0 +1,11 @@
+﻿nom,type,source,source_id,evenements_count,confidentialite,integrite,disponibilite,topologie
+srv-ad,Contrôleur de domaine (Active Directory),lab,vm-001,85000,10,10,9,
+fw-01,Pare-feu VPN,lab,vm-002,210000,,,,
+db-prod,Base de données SQL,lab,vm-003,68000,,,,
+pki-ca,Autorité de certification PKI,lab,vm-004,45,,,,
+core-switch,Commutateur cœur de réseau,lab,vm-005,45000,,,,
+backup-san,Système de sauvegarde,lab,vm-006,120,,,,
+web-01,Serveur web public,lab,vm-007,125000,,,,
+poste-42,Poste de travail,lab,vm-008,12000,,,,
+srv-app-03,Serveur applicatif,cloud,vm-9002,,7.0,8.0,9.0,
+srv-app-02,Serveur applicatif,cloud,vm-9001,,6.0,8.0,8.0,

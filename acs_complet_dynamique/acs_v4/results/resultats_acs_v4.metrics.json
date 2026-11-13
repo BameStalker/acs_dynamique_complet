@@ -1,0 +1,20 @@
+{
+  "ACS": {
+    "TP": 6,
+    "FP": 0,
+    "TN": 2,
+    "FN": 0,
+    "precision": 1.0,
+    "rappel": 1.0,
+    "F1": 1.0
+  },
+  "freq_rang_normalise": {
+    "TP": 3,
+    "FP": 1,
+    "TN": 1,
+    "FN": 3,
+    "precision": 0.75,
+    "rappel": 0.5,
+    "F1": 0.6
+  }
+}

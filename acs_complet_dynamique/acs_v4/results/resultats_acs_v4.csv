@@ -1,0 +1,9 @@
+﻿id,nom,type,identite,profil,source_T,C,I,A,T,evenements_count,ACS,niveau,freq_mu,freq_rang_normalise,ecart_ACS_freq10
+45735a10-74f4-59a3-aaee-56128834fb1f,srv-ad,Contrôleur de domaine (Active Directory),source_id,active_directory,graphe,10.0,10.0,9.0,7.4286,85000.0,9.29,Critique,0.155916,0.75,1.79
+f2a29902-3bde-5116-a0d2-2288eb812736,backup-san,Système de sauvegarde,source_id,backup,graphe,10,9,9,3.5714,120.0,8.26,Critique,0.00022,0.25,5.76
+956618b3-8058-53b4-8927-88a0a6dbf72c,pki-ca,Autorité de certification PKI,source_id,pki,graphe,10,10,6,3.5714,45.0,7.91,Élevé,8.3e-05,0.125,6.66
+242e1c1d-da81-52a0-9b36-b16f967dfced,db-prod,Base de données SQL,source_id,database,graphe,8,9,8,6.1429,68000.0,7.88,Élevé,0.124733,0.625,1.63
+80217ee4-a2db-5804-a72b-6b91b1d30f55,fw-01,Pare-feu VPN,source_id,firewall,graphe,6,9,10,6.1429,210000.0,7.58,Élevé,0.385204,1.0,-2.42
+e66be7e3-9ea7-5b62-83e9-eac3e2f1d230,core-switch,Commutateur cœur de réseau,source_id,network_core,graphe,5,8,10,6.1429,45000.0,6.98,Élevé,0.082544,0.5,1.98
+fb761b57-ef0c-5057-b9f6-390d61b4fc2a,web-01,Serveur web public,source_id,web_public,graphe,3,6,8,4.8571,125000.0,5.12,Moyen,0.229288,0.875,-3.63
+2ab01fa0-3a92-517f-b5b7-bfdb8bdc1866,poste-42,Poste de travail,source_id,workstation,graphe,2,3,3,3.5714,12000.0,2.76,Faible,0.022012,0.375,-0.99

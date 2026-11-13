@@ -1,0 +1,11 @@
+﻿id,nom,type,identite,profil,source_T,C,I,A,T,evenements_count,ACS,niveau,freq_mu,freq_rang_normalise,ecart_ACS_freq10
+45735a10-74f4-59a3-aaee-56128834fb1f,srv-ad,Contrôleur de domaine (Active Directory),source_id,active_directory,graphe,10.0,10.0,9.0,8.0,85000.0,9.4,Critique,,,
+f2a29902-3bde-5116-a0d2-2288eb812736,backup-san,Système de sauvegarde,source_id,backup,graphe,10,9,9,4.0,120.0,8.35,Critique,,,
+242e1c1d-da81-52a0-9b36-b16f967dfced,db-prod,Base de données SQL,source_id,database,graphe,8,9,8,7.0,68000.0,8.05,Critique,,,
+956618b3-8058-53b4-8927-88a0a6dbf72c,pki-ca,Autorité de certification PKI,source_id,pki,graphe,10,10,6,3.0,45.0,7.8,Élevé,,,
+80217ee4-a2db-5804-a72b-6b91b1d30f55,fw-01,Pare-feu VPN,source_id,firewall,graphe,6,9,10,5.0,210000.0,7.35,Élevé,,,
+d2a758b6-51cc-5492-97aa-a6a357f2947d,srv-app-03,Serveur applicatif,source_id,inconnu,graphe,7.0,8.0,9.0,4.0,,7.05,Élevé,,,
+e66be7e3-9ea7-5b62-83e9-eac3e2f1d230,core-switch,Commutateur cœur de réseau,source_id,network_core,graphe,5,8,10,5.0,45000.0,6.75,Élevé,,,
+08cc3190-6c4e-5f22-aa7c-c3634dd5a608,srv-app-02,Serveur applicatif,source_id,inconnu,graphe,6.0,8.0,8.0,4.0,,6.5,Élevé,,,
+fb761b57-ef0c-5057-b9f6-390d61b4fc2a,web-01,Serveur web public,source_id,web_public,graphe,3,6,8,5.0,125000.0,5.15,Moyen,,,
+2ab01fa0-3a92-517f-b5b7-bfdb8bdc1866,poste-42,Poste de travail,source_id,workstation,graphe,2,3,3,3.0,12000.0,2.65,Faible,,,

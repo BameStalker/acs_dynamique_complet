@@ -1,0 +1,11 @@
+﻿nom,id,ACS_avant,ACS_apres,variation,statut
+srv-ad,45735a10-74f4-59a3-aaee-56128834fb1f,9.4,9.4,0.0,existant
+backup-san,f2a29902-3bde-5116-a0d2-2288eb812736,8.35,8.35,0.0,existant
+db-prod,242e1c1d-da81-52a0-9b36-b16f967dfced,8.05,8.05,0.0,existant
+pki-ca,956618b3-8058-53b4-8927-88a0a6dbf72c,7.8,7.8,0.0,existant
+fw-01,80217ee4-a2db-5804-a72b-6b91b1d30f55,7.35,7.35,0.0,existant
+srv-app-03,d2a758b6-51cc-5492-97aa-a6a357f2947d,7.05,7.05,0.0,existant
+core-switch,e66be7e3-9ea7-5b62-83e9-eac3e2f1d230,6.75,6.75,0.0,existant
+srv-app-02,08cc3190-6c4e-5f22-aa7c-c3634dd5a608,6.5,6.5,0.0,existant
+web-01,fb761b57-ef0c-5057-b9f6-390d61b4fc2a,5.15,5.15,0.0,existant
+poste-42,2ab01fa0-3a92-517f-b5b7-bfdb8bdc1866,2.65,2.65,0.0,existant
